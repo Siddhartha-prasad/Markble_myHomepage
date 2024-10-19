@@ -1,0 +1,25 @@
+/* styles.css */
+#app {
+    font-family: Arial, sans-serif;
+  }
+  
+  .card {
+    border-radius: 0.5rem;
+  }
+  
+  .stories .card {
+    transition: transform 0.2s;
+  }
+  
+  .stories .card:hover {
+    transform: scale(1.02);
+  }
+  
+  input.form-control {
+    margin-bottom: 0.5rem;
+  }
+  
+  .navbar {
+    margin-bottom: 20px;
+  }
+  
